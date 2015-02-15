@@ -16,8 +16,6 @@ from herowars.entities import Hero
 
 from herowars.configs import database_path
 
-import herowars.menus as menus
-
 # Source.Python 
 from events import Event
 
